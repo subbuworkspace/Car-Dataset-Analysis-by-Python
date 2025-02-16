@@ -15,4 +15,4 @@ Usage
 
 Clone the repository, install dependencies, and run the notebook to explore the cleaned data and insights.
 
-This project also involves visualizing key metrics from the car dataset,
+This project also involves visualizing key metrics from the car dataset, helping to understand better market trends, pricing patterns, and feature correlations.
